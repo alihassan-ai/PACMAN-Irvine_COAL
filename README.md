@@ -86,4 +86,4 @@ This project is open-source and educational. Use it to learn, remix, and submit 
 
 ---
 
-Made with ❤️ and low-level madness by [Ali Hassan]
+Made with ❤️ and low-level madness by Ali Hassan
